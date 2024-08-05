@@ -32,13 +32,13 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 
 ## Outros códigos  
 1. ´insere-categoria.php´
-![]()  
+![Insere categoria]()  
 
 2. ´insere-marca.php´
-![]()  
+![Insere marca]()  
 
 3. ´insere-produto.php´
-![]()  
+![Insere produto]()  
 
 ## Controller  
 
@@ -86,7 +86,17 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 - *Carrinho*
 ![Carrinho](https://github.com/laylabtrice/CadEcommerce/blob/main/img/carrinho1.png)  
 - *Ao realizar compra*
-![Compra feita](https://github.com/laylabtrice/CadEcommerce/blob/main/img/pedidofeito.png)  
+![Compra feita](https://github.com/laylabtrice/CadEcommerce/blob/main/img/pedidofeito.png) 
+
+### Cadastrar  
+- *Produtos*
+![Cad produto](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadproduto.png)  
+
+- *Marca*
+![Cad marca](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadmarca.png)  
+
+- *Categoria*
+![Cad categoria](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadcategoria.png)  
 
 ## Como Executar o Projeto
 
