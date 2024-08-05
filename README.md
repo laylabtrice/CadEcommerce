@@ -54,7 +54,7 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 
 ## Telas
 1. *Tela Inicial*
-![Tela Inicial]](https://github.com/laylabtrice/CadEcommerce/blob/main/img/p%C3%A1ginainicial.png)  
+![Tela Inicial](https://github.com/laylabtrice/CadEcommerce/blob/main/img/p%C3%A1ginainicial.png)  
 
 2. Para realizar compra
 - *Adicionar quantidade de itens*  
