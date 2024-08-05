@@ -57,7 +57,7 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 ![Tela Inicial]](https://github.com/laylabtrice/CadEcommerce/blob/main/img/p%C3%A1ginainicial.png)  
 
 2. Para realizar compra
-- *Adicionar quantidade de itens*
+- *Adicionar quantidade de itens*  
 ![Notificação para itens](https://github.com/laylabtrice/CadEcommerce/blob/main/img/additem.png)  
 - *Carrinho*
 ![Carrinho](https://github.com/laylabtrice/CadEcommerce/blob/main/img/carrinho1.png)  
