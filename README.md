@@ -89,14 +89,7 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 ![Compra feita](https://github.com/laylabtrice/CadEcommerce/blob/main/img/pedidofeito.png) 
 
 ### Cadastrar  
-- *Produtos*
-![Cad produto](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadproduto.png)  
 
-- *Marca*
-![Cad marca](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadmarca.png)  
-
-- *Categoria*
-![Cad categoria](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadcategoria.png)  
 
 ## Como Executar o Projeto
 
