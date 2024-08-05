@@ -7,8 +7,9 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
  
 1. [Resumo do Projeto](#resumo-do-projeto)
 2. [Estrutura do Projeto](#estrutura-do-projeto)
-3. [Como Executar o Projeto](#como-executar-o-projeto)
-4. [](#)
+3. [Outros códigos](#outros-códigos)
+4. []
+. [Como Executar o Projeto](#como-executar-o-projeto)
 
 ## Estrutura do Projeto
 1.  ´index.php´
@@ -50,6 +51,14 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 2. ´Carrinho.class.php´
 3. ´Produtos.class.php´
 
+
+## Telas
+1. Tela Inicial
+
+2. Para realizar compra
+- Adicionar quantidade de itens
+- Carrinho
+- Ao realizar compra
 
 ## Tecnologias Utilizadas
 
