@@ -8,8 +8,12 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 1. [Resumo do Projeto](#resumo-do-projeto)
 2. [Estrutura do Projeto](#estrutura-do-projeto)
 3. [Outros códigos](#outros-códigos)
-4. []
-. [Como Executar o Projeto](#como-executar-o-projeto)
+4. [Controller](#controller)
+5. [Model](#model)
+6. [Telas](#telas)
+7. [Como Executar o Projeto](#como-executar-o-projeto)
+8. [Tecnologias utilizadas](#tecnologias-utilizadas)
+9. [Sobre Execução](#sobre-execução)
 
 ## Estrutura do Projeto  
 1.  ´index.php´
