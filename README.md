@@ -19,7 +19,7 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 ![produtos](https://github.com/laylabtrice/CadEcommerce/blob/main/img/PRODUTOS.png)  
 
 3.  ´carrinho.php´
-![Carrinho](https://github.com/laylabtrice/CadEcommerce/blob/main/img/carrinho.php)  
+![Carrinho](https://github.com/laylabtrice/CadEcommerce/blob/main/img/CARRINHO.png)  
 
 4.  ´categoria.php´
 ![Categoria](https://github.com/laylabtrice/CadEcommerce/blob/main/img/CATEGORIA.png)  
