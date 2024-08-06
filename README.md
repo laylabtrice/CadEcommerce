@@ -131,12 +131,15 @@ Conecta ao banco de dados.
 - *CSS*: Utilizado para a estilização do site.
 - *PHP*: Programação dos códigos.
 - *JavaScript*: Apresentar POPUP de janela na tela.
+![PopUP](https://github.com/laylabtrice/CadEcommerce/blob/main/img/java.png)
+- *Jquery*: Para tela FrontEnding.
 
 
 ## Fontes
 - [PHP - banco de dados](https://www.hostinger.com.br/tutoriais/como-inserir-dados-no-mysql-com-php)
 - [JavaScript - document ready](https://learn.jquery.com/using-jquery-core/document-ready/)
 - [MYSQLI](https://www.php.net/manual/en/function.mysqli-connect.php)
+- [Jquery](https://ebaconline.com.br/blog/o-que-e-jquery#:~:text=jQuery%20%C3%A9%20usado%20para%20criar,com%20pouca%20experi%C3%AAncia%20em%20programa%C3%A7%C3%A3o.)
 
 ## Sobre execução
 
