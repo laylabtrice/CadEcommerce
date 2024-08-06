@@ -58,20 +58,20 @@ Código para inserir produto cadastrado ao banco de dados.
 
 - *Carrinho*
 1. ´carrinho-add.php´  
-![Carrinho add](https://github.com/laylabtrice/CadEcommerce/blob/main/img/CARRINHOADD.png)  
+![Carrinho add](https://github.com/laylabtrice/CadEcommerce/blob/main/img/CARRINHOADD.png)    
 Inicializa um carrinho de compras e adiciona um item a ele.  
 
 2. ´carrrinho-busca.php´  
-![Carrinho busca](https://github.com/laylabtrice/CadEcommerce/blob/main/img/carrinhobusca.png) 
+![Carrinho busca](https://github.com/laylabtrice/CadEcommerce/blob/main/img/carrinhobusca.png)     
 Executa uma operação de busca no carrinho.  
 
 3. ´carrinho-remover.php´  
-![Carrinho remove](https://github.com/laylabtrice/CadEcommerce/blob/main/img/carrinhoremove.png)  
+![Carrinho remove](https://github.com/laylabtrice/CadEcommerce/blob/main/img/carrinhoremove.png)      
 Executa a função de deletar item no carrinho.
 
 - *Conexão*
 1. ´conexao.php´  
-![Conexão](https://github.com/laylabtrice/CadEcommerce/blob/main/img/conexao.png) 
+![Conexão](https://github.com/laylabtrice/CadEcommerce/blob/main/img/conexao.png)     
 Conecta ao banco de dados. 
 
 - *Produtos*  
