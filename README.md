@@ -13,7 +13,8 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 6. [Telas](#telas)
 7. [Como Executar o Projeto](#como-executar-o-projeto)
 8. [Tecnologias utilizadas](#tecnologias-utilizadas)
-9. [Sobre Execução](#sobre-execução)
+9. [Fontes](#fontes)
+10. [Sobre Execução](#sobre-execução)
 
 ## Estrutura do Projeto  
 1.  ´index.php´  
@@ -116,6 +117,10 @@ Código para inserir produto cadastrado ao banco de dados.
 - *CSS*: Utilizado para a estilização do site.
 - *PHP*: 
 - *JavaScript*:
+
+## Fontes
+- [PHP - banco de dados](https://www.hostinger.com.br/tutoriais/como-inserir-dados-no-mysql-com-php)
+- [JavaScript - document ready](https://learn.jquery.com/using-jquery-core/document-ready/)
 
 ## Sobre execução
 
