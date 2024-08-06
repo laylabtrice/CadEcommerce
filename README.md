@@ -117,6 +117,8 @@ Conecta ao banco de dados.
 - *Cadastra Categoria*  
 ![Cad categoria](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadcategoria.png)  
 
+*Será notificado ao final do cadastro se foi concluido com sucesso ou se não foi possível cadastrar.*
+
 ## Como Executar o Projeto
 
 1. *Inicio*: Certifique que possui uma plataforma com suporte para PHP em seu computador.
@@ -127,12 +129,14 @@ Conecta ao banco de dados.
 
 - *HTML*: Utilizado para a estrutura das páginas.
 - *CSS*: Utilizado para a estilização do site.
-- *PHP*: 
-- *JavaScript*:
+- *PHP*: Programação dos códigos.
+- *JavaScript*: Apresentar POPUP de janela na tela.
+
 
 ## Fontes
 - [PHP - banco de dados](https://www.hostinger.com.br/tutoriais/como-inserir-dados-no-mysql-com-php)
 - [JavaScript - document ready](https://learn.jquery.com/using-jquery-core/document-ready/)
+- [MYSQLI](https://www.php.net/manual/en/function.mysqli-connect.php)
 
 ## Sobre execução
 
