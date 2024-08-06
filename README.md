@@ -17,22 +17,28 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 
 ## Estrutura do Projeto  
 1.  ´index.php´
-![Index](https://github.com/laylabtrice/CadEcommerce/blob/main/img/INDEX.png)  
+![Index](https://github.com/laylabtrice/CadEcommerce/blob/main/img/INDEX.png) 
+### Código básico do site para aplicação de uma compra.
 
 2.  ´produtos.php´
 ![produtos](https://github.com/laylabtrice/CadEcommerce/blob/main/img/PRODUTOS.png)  
+### Estruturação dos produtos do site.
 
 3.  ´carrinho.php´
-![Carrinho](https://github.com/laylabtrice/CadEcommerce/blob/main/img/CARRINHO.png)  
+![Carrinho](https://github.com/laylabtrice/CadEcommerce/blob/main/img/CARRINHO.png) 
+### Código da página de carrinho, para aparecer os produtos que forem selecionados.
 
 4.  ´categoria.php´
 ![Categoria](https://github.com/laylabtrice/CadEcommerce/blob/main/img/CATEGORIA.png)  
+### Código para página de cadastro de categorias, ligado com o banco de dados.
 
 5.  ´marca.php´
 ![Marca](https://github.com/laylabtrice/CadEcommerce/blob/main/img/MARCA.png)  
+### Código para página de cadastro de marcas, ligado com o banco de dados.
 
 6.  ´pedido.php´
 ![Pedido](https://github.com/laylabtrice/CadEcommerce/blob/main/img/PEDIDO.png)  
+### Código para aparecer o pedido que foi feito após a compra
 
 ## Outros códigos  
 1. ´insere-categoria.php´
