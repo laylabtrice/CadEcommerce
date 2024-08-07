@@ -9,9 +9,9 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 2. [Estrutura do Projeto](#estrutura-do-projeto)
 3. [Outros códigos](#outros-códigos)
 4. [Controller](#controller)
-5. [Model](#model)
-6. [Telas](#telas)
-7. [Como Executar o Projeto](#como-executar-o-projeto)
+5. [Telas](#telas)
+6. [Como Executar o Projeto](#como-executar-o-projeto)
+7.
 8. [Tecnologias utilizadas](#tecnologias-utilizadas)
 9. [Fontes](#fontes)
 10. [Sobre Execução](#sobre-execução)
@@ -76,23 +76,16 @@ Conecta ao banco de dados.
 
 - *Produtos*  
 1. ´produtos-busca.php´  
-![]()  
+![Produto busca](https://github.com/laylabtrice/CadEcommerce/blob/main/img/prodbusca.png)  
+Busca produtos do banco de dados.    
 
 2. ´produtos-pedido.php´  
-![]()  
+![Produto pedido](https://github.com/laylabtrice/CadEcommerce/blob/main/img/prodpedido.png)  
+Para o pedido dos produtos.  
 
 3. ´produtos-resumo.php´  
-![]()  
-
-## Model  
-1. ´cadMarca.php´  
-![]()  
-
-2. ´Carrinho.class.php´  
-![]()  
-
-3. ´Produtos.class.php´  
-![]()  
+![Produto resumo](https://github.com/laylabtrice/CadEcommerce/blob/main/img/prodresumo.png) 
+Mostra resumo dos produtos salvos no banco de dados.  
 
 ## Telas
 ### 1. *Tela Inicial*
@@ -125,6 +118,32 @@ Conecta ao banco de dados.
 2. *Clonar*: Clone este repositório em seu servidor web.
 3. *Abra o Navegador*: Abra o navegador e acesse o caminho do projeto no servidor web para visualizar a tela inicial.
 
+## Métodos utilizados
+1. *include_once()*: Inclui e avalia o arquivo especificado durante a execução do script, garantindo que ele só seja incluído uma vez.
+2. *mysqli_query()*: Executa uma consulta no banco de dados MySQL.
+3. *while*: Estrutura de repetição que executa um bloco de código enquanto a condição for verdadeira.
+4. *mysqli_fetch_assoc()*: Busca uma linha de resultado como uma matriz associativa.
+5. *echo*: Exibe uma ou mais strings.
+6. *mysqli_affected_rows()*: Retorna o número de linhas afetadas pela última consulta.
+7. *mysqli_close()*: Fecha a conexão com o banco de dados MySQL.
+8. *__construct()*: Método construtor de uma classe, executado automaticamente na criação de um objeto.
+9. *session_start()*: Inicia uma nova sessão ou resume uma sessão existente.
+10. *$mysqli->query*: Método orientado a objetos para executar uma consulta no banco de dados MySQL.
+11. *mysqli_fetch_object()*: Busca uma linha de resultado como um objeto.
+12. *array()*: Cria um "Array".
+13. *$_SESSION['']*: Superglobal que armazena e acessa variáveis de sessão.
+14. *exit;*: Finaliza execução.
+15. *header('Location:')*: Envia um cabeçalho HTTP de redirecionamento para o navegador.
+16. *max()*: Retorna o valor máximo de um array ou de uma lista de argumentos.
+17. *str_replace()*: Substitui todas as ocorrências de uma string por outra.
+18. *unset()*: Destrói a variável especificada, liberando qualquer recurso associado.
+19. *new Carrinho()*: Cria um novo carrinho.
+20. *$mysqli->set_charset('utf8')*: Define o conjunto de caracteres da conexão MySQL para UTF-8.
+21. *die()*: Termina a execução do script e opcionalmente imprime uma mensagem.
+22. *array_keys()*: Retorna todas as chaves de um array.
+23. *mysqli_connect()*: Abre uma nova conexão com um servidor MySQL.
+24. *$mysqli->connect_error*: Mensagem de erro caso conexão falhe.
+
 ## Tecnologias Utilizadas
 
 - *HTML*: Utilizado para a estrutura das páginas.
@@ -132,11 +151,12 @@ Conecta ao banco de dados.
 - *PHP*: Programação dos códigos.
 - *JavaScript*: Apresentar POPUP de janela na tela.
 ![PopUP](https://github.com/laylabtrice/CadEcommerce/blob/main/img/java.png)
-- *Jquery*: Para tela FrontEnding.
-
+- *Jquery*: Para tela FrontEnding junto do CSS.
+- *MYSQL/MYSQLI*: Execução com banco de dados MYSQL.
 
 ## Fontes
 - [PHP - banco de dados](https://www.hostinger.com.br/tutoriais/como-inserir-dados-no-mysql-com-php)
+- [Manual geral de PHP](https://www.php.net/docs.php)
 - [JavaScript - document ready](https://learn.jquery.com/using-jquery-core/document-ready/)
 - [MYSQLI](https://www.php.net/manual/en/function.mysqli-connect.php)
 - [Jquery](https://ebaconline.com.br/blog/o-que-e-jquery#:~:text=jQuery%20%C3%A9%20usado%20para%20criar,com%20pouca%20experi%C3%AAncia%20em%20programa%C3%A7%C3%A3o.)
