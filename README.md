@@ -119,30 +119,30 @@ Mostra resumo dos produtos salvos no banco de dados.
 3. *Abra o Navegador*: Abra o navegador e acesse o caminho do projeto no servidor web para visualizar a tela inicial.
 
 ## Métodos utilizados
-- 1. *include_once()*: Inclui e avalia o arquivo especificado durante a execução do script, garantindo que ele só seja incluído uma vez.
-- 2. *mysqli_query()*: Executa uma consulta no banco de dados MySQL.
-- 3. *while*: Estrutura de repetição que executa um bloco de código enquanto a condição for verdadeira.
-- 4. *mysqli_fetch_assoc()*: Busca uma linha de resultado como uma matriz associativa.
-- 5. *echo*: Exibe uma ou mais strings.
-- 6. *mysqli_affected_rows()*: Retorna o número de linhas afetadas pela última consulta.
-- 7. *mysqli_close()*: Fecha a conexão com o banco de dados MySQL.
-- 8. *__construct()*: Método construtor de uma classe, executado automaticamente na criação de um objeto.
-- 9. *session_start()*: Inicia uma nova sessão ou resume uma sessão existente.
-- 10. *$mysqli->query*: Método orientado a objetos para executar uma consulta no banco de dados MySQL.
+- 1.  `include_once() `: Inclui e avalia o arquivo especificado durante a execução do script, garantindo que ele só seja incluído uma vez.
+- 2.  `mysqli_query() `: Executa uma consulta no banco de dados MySQL.
+- 3.  `while `: Estrutura de repetição que executa um bloco de código enquanto a condição for verdadeira.
+- 4.  `mysqli_fetch_assoc() `: Busca uma linha de resultado como uma matriz associativa.
+- 5.  `echo `: Exibe uma ou mais strings.
+- 6.  `mysqli_affected_rows() `: Retorna o número de linhas afetadas pela última consulta.
+- 7.  `mysqli_close() `: Fecha a conexão com o banco de dados MySQL.
+- 8.  `__construct() `: Método construtor de uma classe, executado automaticamente na criação de um objeto.
+- 9.  `session_start() `: Inicia uma nova sessão ou resume uma sessão existente.
+- 10.  `$mysqli->query `: Método orientado a objetos para executar uma consulta no banco de dados MySQL.
 - 11. *mysqli_fetch_object()*: Busca uma linha de resultado como um objeto.
 - 12. *array()*: Cria um "Array".
 - 13. *$_SESSION['']*: Superglobal que armazena e acessa variáveis de sessão.
-- 14. *exit;*: Finaliza execução.
-- 15. *header('Location:')*: Envia um cabeçalho HTTP de redirecionamento para o navegador.
-- 16. *max()*: Retorna o valor máximo de um array ou de uma lista de argumentos.
-- 17. *str_replace()*: Substitui todas as ocorrências de uma string por outra.
-- 18. *unset()*: Destrói a variável especificada, liberando qualquer recurso associado.
-- 19. *new Carrinho()*: Cria um novo carrinho.
-- 20. *$mysqli->set_charset('utf8')*: Define o conjunto de caracteres da conexão MySQL para UTF-8.
-- 21. *die()*: Termina a execução do script e opcionalmente imprime uma mensagem.
-- 22. *array_keys()*: Retorna todas as chaves de um array.
-- 23. *mysqli_connect()*: Abre uma nova conexão com um servidor MySQL.
-- 24. *$mysqli->connect_error*: Mensagem de erro caso conexão falhe.
+- 14.  `exit; `: Finaliza execução.
+- 15.  `header('Location:') `: Envia um cabeçalho HTTP de redirecionamento para o navegador.
+- 16.  `max() `: Retorna o valor máximo de um array ou de uma lista de argumentos.
+- 17.  `str_replace() `: Substitui todas as ocorrências de uma string por outra.
+- 18.  `unset() `: Destrói a variável especificada, liberando qualquer recurso associado.
+- 19.  `new Carrinho() `: Cria um novo carrinho.
+- 20.  `$mysqli->set_charset('utf8') `: Define o conjunto de caracteres da conexão MySQL para UTF-8.
+- 21.  `die() `: Termina a execução do script e opcionalmente imprime uma mensagem.
+- 22.  `array_keys() `: Retorna todas as chaves de um array.
+- 23.  `mysqli_connect() `: Abre uma nova conexão com um servidor MySQL.
+- 24.  `$mysqli->connect_error `: Mensagem de erro caso conexão falhe.
 
 ## Tecnologias Utilizadas
 
