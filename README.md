@@ -129,9 +129,9 @@ Mostra resumo dos produtos salvos no banco de dados.
 - 8.  `__construct() `: Método construtor de uma classe, executado automaticamente na criação de um objeto.
 - 9.  `session_start() `: Inicia uma nova sessão ou resume uma sessão existente.
 - 10.  `$mysqli->query `: Método orientado a objetos para executar uma consulta no banco de dados MySQL.
-- 11. *mysqli_fetch_object()*: Busca uma linha de resultado como um objeto.
-- 12. *array()*: Cria um "Array".
-- 13. *$_SESSION['']*: Superglobal que armazena e acessa variáveis de sessão.
+- 11.  `mysqli_fetch_object() `: Busca uma linha de resultado como um objeto.
+- 12.  `array() `: Cria um "Array".
+- 13.  `$_SESSION[''] `: Superglobal que armazena e acessa variáveis de sessão.
 - 14.  `exit; `: Finaliza execução.
 - 15.  `header('Location:') `: Envia um cabeçalho HTTP de redirecionamento para o navegador.
 - 16.  `max() `: Retorna o valor máximo de um array ou de uma lista de argumentos.
