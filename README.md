@@ -102,13 +102,13 @@ Mostra resumo dos produtos salvos no banco de dados.
 ### Cadastrar  
 
 - *Cadastra Marca*  
-![Cad marca](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadmarca.png)  
+![Cad marca](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadmarca.png)    
 
-- *Cdastra Produto*  
-![Cad produto](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadproduto.png)  
+- *Cadastra Produto*  
+![Cad produto](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadproduto.png)    
 
 - *Cadastra Categoria*  
-![Cad categoria](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadcategoria.png)  
+![Cad categoria](https://github.com/laylabtrice/CadEcommerce/blob/main/img/cadcategoria.png)    
 
 *Será notificado ao final do cadastro se foi concluido com sucesso ou se não foi possível cadastrar.*
 
