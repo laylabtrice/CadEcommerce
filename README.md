@@ -71,20 +71,20 @@ Executa a função de deletar item no carrinho.
 
 - *Conexão*
 1. ´conexao.php´  
-![Conexão](https://github.com/laylabtrice/CadEcommerce/blob/main/img/conexao.png)     
-Conecta ao banco de dados. 
+![Conexão](https://github.com/laylabtrice/CadEcommerce/blob/main/img/conexao.png)        
+Conecta ao banco de dados.   
 
 - *Produtos*  
-1. ´produtos-busca.php´  
-![Produto busca](https://github.com/laylabtrice/CadEcommerce/blob/main/img/prodbusca.png)  
+1. ´produtos-busca.php´    
+![Produto busca](https://github.com/laylabtrice/CadEcommerce/blob/main/img/prodbusca.png)    
 Busca produtos do banco de dados.    
 
 2. ´produtos-pedido.php´  
-![Produto pedido](https://github.com/laylabtrice/CadEcommerce/blob/main/img/prodpedido.png)  
+![Produto pedido](https://github.com/laylabtrice/CadEcommerce/blob/main/img/prodpedido.png)    
 Para o pedido dos produtos.  
 
 3. ´produtos-resumo.php´  
-![Produto resumo](https://github.com/laylabtrice/CadEcommerce/blob/main/img/prodresumo.png) 
+![Produto resumo](https://github.com/laylabtrice/CadEcommerce/blob/main/img/prodresumo.png)     
 Mostra resumo dos produtos salvos no banco de dados.  
 
 ## Telas
