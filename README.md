@@ -11,7 +11,7 @@ Este projeto é um site de compras, onde o usário tem acesso aos produtos dispo
 4. [Controller](#controller)
 5. [Telas](#telas)
 6. [Como Executar o Projeto](#como-executar-o-projeto)
-7.
+7. [Métodos utilizados](#métodos-utilizados)
 8. [Tecnologias utilizadas](#tecnologias-utilizadas)
 9. [Fontes](#fontes)
 10. [Sobre Execução](#sobre-execução)
